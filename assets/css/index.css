@@ -48,3 +48,35 @@ a{
     transform:  scale(1.08);
     background-color: #00aeffb1;
 }
+.section{
+    margin: 60px;
+    font-family: cursive;
+    display: inline-block;
+     background-color: #0ffff8;
+     box-shadow: 5px 5px 2px #000;
+    text-align: center;
+    padding: 15px 15px;
+    
+}
+
+.section .title{
+    margin: 0%;
+}
+
+.title{
+    text-shadow: 4px 4px 2px #2d3436;
+    color: #F25A70;
+    font-size: 50px;
+}
+
+.title .-second{
+
+    text-align: center;
+    color: #000;
+    text-shadow: none;
+}
+.subtitle{
+    font-size: 40px;
+    color: #fff;
+    text-shadow: 4px 4px 2px #2d3436;
+}
